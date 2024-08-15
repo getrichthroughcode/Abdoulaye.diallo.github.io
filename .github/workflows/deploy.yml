@@ -20,8 +20,11 @@ jobs:
     - name: Build site with Hugo
       run: hugo --config hugo.toml --minify
 
+    - name: List public directory contents
+      run: ls -la ./public
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GH_PAT }}  # Replace with GITHUB_TOKEN if not using PAT
         publish_dir: ./public
