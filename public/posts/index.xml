@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Abdoulaye Diallo - Aspiring ML Engineer</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://www.getrichthroughcode.github.io/posts/</link>
     <description>Recent content in Posts on Abdoulaye Diallo - Aspiring ML Engineer</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Aug 2024 16:48:05 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/vision/</link>
-      <pubDate>Thu, 15 Aug 2024 16:48:05 +0200</pubDate>
-      <guid>http://localhost:1313/posts/vision/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://www.getrichthroughcode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
