@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdoulaye Diallo - Aspiring ML Engineer</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Abdoulaye Diallo - Aspiring ML Engineer</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Aug 2024 16:48:05 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/vision/</link>
+      <pubDate>Thu, 15 Aug 2024 16:48:05 +0200</pubDate>
+      <guid>http://localhost:1313/posts/vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML Engineer intern</title>
+      <link>http://localhost:1313/portfolio/ml_engineer/</link>
+      <pubDate>Thu, 15 Aug 2024 16:39:33 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/ml_engineer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Wed, 14 Aug 2024 15:57:21 +0200</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>You can view my CV directly below:</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 14 Aug 2024 15:41:58 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hello! I&amp;rsquo;m Abdoulaye Diallo, an aspiring Machine Learning Engineer with a passion for coding, data science, and artificial intelligence. I have a strong background in computer science and a deep interest in building intelligent systems that can learn and adapt.&#xA;I am currently pursuing a Master of Engineering (MEng) in Electronics, with a specialization in Signal Processing and Computer Vision, at the Bordeaux Institute of Technology. I am set to graduate in September 2025.</description>
+    </item>
+  </channel>
+</rss>
