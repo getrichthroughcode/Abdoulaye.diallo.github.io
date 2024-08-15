@@ -1,4 +1,4 @@
-baseurl = "http://www.getrichthroughcode.github.io"
+baseurl = "http://getrichthroughcode.github.io"
 title = "Abdoulaye Diallo - Aspiring ML Engineer"
 theme = "hugo-coder"
 languagecode = "en"
