@@ -1,9 +1,9 @@
-name: Deploy Hugo site to GitHub Pages
+name: Deploy Hugo Site
 
 on:
   push:
     branches:
-      - master  # or master, depending on your branch name
+      - master  # This should be the branch where your Hugo site content is pushed
 
 jobs:
   deploy:
@@ -16,13 +16,13 @@ jobs:
     - name: Set up Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: 'latest'
+        hugo-version: '0.90.1'  # Use your Hugo version
 
-    - name: Build the website
-      run: hugo --minify
+    - name: Build
+      run: hugo
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./public
+        branch: master  # This should be `master` since you're deploying to `master`
+        folder: public  # This is the output directory from Hugo
