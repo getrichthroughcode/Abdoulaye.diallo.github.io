@@ -13,7 +13,14 @@
       <link>http://localhost:1313/posts/pilot/</link>
       <pubDate>Thu, 24 Oct 2024 15:48:28 +0200</pubDate>
       <guid>http://localhost:1313/posts/pilot/</guid>
-      <description></description>
+      <description>Signal and Image Processing: Motivation and Challenges Link to heading Introduction Link to heading Growing up, I was always fascinated by how technology could see, hear, and interpret the world around us. Whether it was the clarity of a song on the radio or the sharpness of an image on a medical scan, I knew there was magic happening behind the scenes.&#xA;Today, I want to share the incredible world of signal and image processing—a field that has shaped modern technology in unimaginable ways.</description>
+    </item>
+    <item>
+      <title>AI Engineer internship</title>
+      <link>http://localhost:1313/portfolio/ml_engineer/</link>
+      <pubDate>Thu, 15 Aug 2024 16:39:33 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/ml_engineer/</guid>
+      <description>VanillaHR Internship Experience Link to heading Project Overview Link to heading Duration: 05/13/2024 - 09/30/2024&#xA;During my internship at VanillaHR, I was tasked with designing and deploying an innovative CV parsing solution. This project aimed to enhance the recruitment process by employing AI for efficient extraction and analysis of candidate information.&#xA;Responsibilities and Contribution Link to heading Developed an AI-based CV parsing model to extract relevant information from resumes, ensuring high accuracy and reliability.</description>
     </item>
   </channel>
 </rss>
