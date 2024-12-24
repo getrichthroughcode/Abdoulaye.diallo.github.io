@@ -6,7 +6,7 @@ draft = false
 
 
 
-+33 7 66 51 92 85 | [abdoulayediallo338@gmail.com](mailto:abdoulayediallo338@gmail.com) | [getrichthroughcode.github.io](http://getrichthroughcode.github.io) | [github.com/getrichthroughcode](https://github.com/getrichthroughcode) | [www.linkedin.com/in/abdiallo-ai](https://www.linkedin.com/in/abdiallo-ai)  
+ [abdoulayediallo338@gmail.com](mailto:abdoulayediallo338@gmail.com) | [getrichthroughcode.github.io](http://getrichthroughcode.github.io) | [github.com/getrichthroughcode](https://github.com/getrichthroughcode) | [www.linkedin.com/in/abdiallo-ai](https://www.linkedin.com/in/abdiallo-ai)  
 September 2025 graduate seeking 6‑month internship opportunities in AI from February 2025.
 
 ## Areas of Interest:
@@ -64,7 +64,7 @@ Relevant Coursework: GPU Programming | Stochastic Processes | Signal and Image P
 - **French:** Native proficiency
 - **Spanish:** Intermediate proficiency
 
-[Phone: +33 7 66 51 92 85](tel:+33 7 66 51 92 85)  
+  
 [Email: abdoulayediallo338@gmail.com](mailto:abdoulayediallo338@gmail.com)  
 [GitHub: getrichthroughcode](https://github.com/getrichthroughcode)  
 [LinkedIn: abdiallo-ai](https://www.linkedin.com/in/abdiallo-ai)  
